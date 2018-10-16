@@ -1,4 +1,4 @@
-# gid - Global id generator.
+gid - Global id generator.
 ================
 
 [![Build Status](https://travis-ci.org/zouyx/gid.svg?branch=master)](https://travis-ci.org/zouyx/gid)
